@@ -34,14 +34,14 @@ Build a binary classification model using **Logistic Regression** to predict whe
      ```
    - **Classification Report:**
      ```
-                   precision    recall  f1-score   support
+                      precision    recall  f1-score   support
 
-             0       0.97      0.99      0.98        71
-             1       0.98      0.95      0.96        43
+             0          0.97      0.99      0.98        71
+             1          0.98      0.95      0.96        43
 
-      accuracy                           0.97       114
-     macro avg       0.97      0.97      0.97       114
-  weighted avg       0.97      0.97      0.97       114
+      accuracy                              0.97       114
+     macro avg          0.97      0.97      0.97       114
+     weighted avg       0.97      0.97      0.97       114
      ```
    - **ROC-AUC Score:** 1.00
 
